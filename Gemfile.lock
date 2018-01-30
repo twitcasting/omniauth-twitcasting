@@ -1,9 +1,9 @@
 PATH
   remote: .
   specs:
-    omniauth-twitcasting (0.0.1)
-      omniauth (~> 1.0)
-      omniauth-oauth2 (~> 1.0)
+    omniauth-twitcasting (0.0.2)
+      omniauth (~> 1.8)
+      omniauth-oauth2 (~> 1.5)
 
 GEM
   remote: https://rubygems.org/
